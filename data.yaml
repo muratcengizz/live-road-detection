@@ -1,0 +1,8 @@
+path: C:/Users/murat/Documents/computer_vision3/live_road_detection
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 6
+names: ['Accident', 'Bike', 'Car', 'Person', 'Traffic signal', 'accidents']
+
